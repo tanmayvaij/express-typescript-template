@@ -1,3 +1,3 @@
 # Express-Typescript Template
 
-### An example of express application using typescript. 
+### An example of sample express application using typescript. 
